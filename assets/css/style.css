@@ -120,3 +120,5 @@ section { padding: 48px 0; }
 .site-footer .wrap { display: flex; flex-wrap: wrap; gap: 12px 28px; justify-content: space-between; }
 .site-footer a { color: var(--muted); }
 .site-footer nav { display: flex; flex-wrap: wrap; gap: 6px 18px; }
+
+.narrow { max-width: 760px; }
